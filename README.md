@@ -1,5 +1,8 @@
 # Tuftize Markdown
 
+🐊 I bullied CjatGPT 4.0 into write this readme due to time constraints. If you need any help you have got mny profile page link where uyou will find my contact info. GG!
+
+
 Welcome to `tuftize_markdown`, where your Markdown meets the elegance of Edward Tufte's design principles, without losing any of its geeky charm. Who said academic documents had to be dull?
 
 ## What's Inside?
